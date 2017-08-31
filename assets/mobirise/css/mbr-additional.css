@@ -1955,13 +1955,13 @@ body {
   line-height: 44px;
 }
 .cid-qtzaCWP9TW .btn-social {
-  border-color: #cc2952;
+  border-color: #ffffff;
 }
 .cid-qtzaCWP9TW .btn-social:hover {
-  background: #cc2952;
+  background: #ffffff;
 }
 .cid-qtzaCWP9TW .btn-social:hover i.socicon {
-  color: #ffffff !important;
+  color: #000000 !important;
 }
 @media (max-width: 767px) {
   .cid-qtzaCWP9TW .btn {
@@ -1970,7 +1970,7 @@ body {
 }
 .cid-qtzaCWP9TW .btn-social,
 .cid-qtzaCWP9TW .mbr-section-title B {
-  color: #ffffff;
+  color: #cc2952;
 }
 .cid-qtzbMR6nwc {
   padding-top: 45px;
@@ -1986,7 +1986,7 @@ body {
 }
 .cid-qtzcIiTVTT {
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 75px;
   background-color: #ffffff;
 }
 .cid-qtzcIiTVTT .carousel-control {
