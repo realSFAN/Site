@@ -1976,7 +1976,7 @@ body {
 .cid-qtzbMR6nwc {
   padding-top: 45px;
   padding-bottom: 45px;
-  background: linear-gradient(0deg, #ffffff, #ffffff);
+  background: linear-gradient(0deg, #55b4d4, #c1c1c1);
 }
 .cid-qtzbMR6nwc .mbr-iconfont-social {
   font-size: 32px;
@@ -1986,16 +1986,15 @@ body {
   text-decoration: none;
 }
 .cid-qtzcIiTVTT {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background-color: #0f7699;
-  background: linear-gradient(#0f7699, #c1c1c1);
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
 }
 .cid-qtzcIiTVTT .carousel-control {
   background: #000;
 }
 .cid-qtzcIiTVTT .mbr-section-subtitle {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-qtzcIiTVTT .carousel-item {
   -webkit-justify-content: center;
