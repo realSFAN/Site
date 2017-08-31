@@ -44,8 +44,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "sfanonline.org",
+        "meta_descr": "- bridging the gap between education and work",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
