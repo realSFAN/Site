@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SFAN New Site",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 63,
     "versionPublish": "4.2.2",
@@ -44,8 +44,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "sfanonline.org",
-        "meta_descr": "Stars From All Nations (SFAN) - bridging the gap between education and work.",
+        "title": "sfanonline.org - bridging the gap between education and work.",
+        "meta_descr": "Stars From All Nations (SFAN) is a high impact social enterprise that bridges the gap between education and work.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
